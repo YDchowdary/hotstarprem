@@ -5,7 +5,7 @@ i Downloaded cookies from random site to gain login to a hotstar premium account
 
 # Explaination
 
-Would wait for 5 sceonds ,checks if pixels at boundary box on screen were black ,then ‘Shift+ctrl+r ‘ were pressed to reload,this continues until the video plays  
+Would wait for 5 sceonds ,checks if pixels at boundary box on screen were black ,then ‘Shift+ctrl+r ‘ is pressed to reload,this continues until the video plays  
 
 Would be better on c, but fuck yeah python I choose you .
 
