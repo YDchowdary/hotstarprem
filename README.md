@@ -25,6 +25,8 @@ pip install pillow
 
 Dont use easy_install instead of pip,presuming your python verison is older than 2.7
 
+run the rep.py, python rep.py
+
 #References:
 
 https://pillow.readthedocs.io/en/2.9.0/reference/ImageGrab.html
