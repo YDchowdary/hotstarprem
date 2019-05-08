@@ -11,13 +11,13 @@ while()
 		keys
 	else 
 		exit()
-""""
+"""
 
 while 1:
 	#check black
 	
 	
-	if PIL.ImageGrab.grab().load()[700,350]=='#000fff000':
+	if PIL.ImageGrab.grab().load()[700,350]=='#000fff000': #black color and the pixel coordinates
 		pyautogui.keyDown("shift")
 
         	pyautogui.keyDown("ctrl")
