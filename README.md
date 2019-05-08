@@ -1,4 +1,4 @@
-# i
+# myfirstgithubrepository
 i Downloaded cookies from random site to gain login to a hotstar premium account, later  learnt I was not the one,who is using the account,so I need to refresh everytime when someone is using  atleast for a minute.
 
 ![alt text](https://github.com/YDchowdary/hotstarpremi/blob/master/maif.png)
